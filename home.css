@@ -146,7 +146,7 @@ html {
   header::before{
     content: " ";
     position: absolute;
-    background: url(/images/hero_1.jpg.webp) ;
+    background: url(images/hero_1.jpg.webp) ;
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
